@@ -1,5 +1,5 @@
-pandas 
+pandas
 numpy
+seaborn
 matplotlib
-pickle
 streamlit
